@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Juliana Gutiérrez\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,12): warning C4477: 'printf' : la cadena de formato '%lu' requiere un argumento de tipo 'unsigned long', pero el argumento variádico 1 tiene el tipo 'size_t'
+C:\Users\Juliana Gutiérrez\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(16,12): message : considere el uso de ' %zu' en la cadena de formato
+  ConsoleApplication1.vcxproj -> C:\Users\Juliana Gutiérrez\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
